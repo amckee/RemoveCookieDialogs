@@ -8,6 +8,7 @@
 // @include     http*://stackoverflow.com/*
 // @include     http*://serverfault.com/*
 // @include     http*://askubuntu.com/*
+// @include     http*://superuser.com/*
 // @updateURL   https://github.com/amckee/RemoveCookieDialogs/raw/main/removecookiedialogs.user.js
 // @supportURL  https://github.com/amckee/RemoveCookieDialogs/issues
 // @run-at      document-end
