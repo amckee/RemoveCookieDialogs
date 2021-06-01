@@ -4,7 +4,10 @@
 // @namespace   https://github.com/amckee/RemoveCookieDialogs
 // @description Removes the super annoying 'we use cookies' boxes, at least as many as I can.
 // @author      Adam McKee
+// @include     http*://*.stackexchange.com/*
 // @include     http*://stackoverflow.com/*
+// @include     http*://serverfault.com/*
+// @include     http*://askubuntu.com/*
 // @updateURL   https://github.com/amckee/RemoveCookieDialogs/raw/main/removecookiedialogs.user.js
 // @supportURL  https://github.com/amckee/RemoveCookieDialogs/issues
 // @run-at      document-end
