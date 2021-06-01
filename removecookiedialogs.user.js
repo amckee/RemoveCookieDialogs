@@ -5,7 +5,7 @@
 // @description Removes the super annoying 'we use cookies' boxes, at least as many as I can.
 // @author      Adam McKee
 // @include     http*://stackoverflow.com/*
-// @updateURL   
+// @updateURL   https://github.com/amckee/RemoveCookieDialogs/raw/main/removecookiedialogs.user.js
 // @supportURL  https://github.com/amckee/RemoveCookieDialogs/issues
 // @run-at      document-end
 // ==/UserScript==
